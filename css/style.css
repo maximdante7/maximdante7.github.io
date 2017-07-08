@@ -10,3 +10,15 @@ h1 {
 	color: #fff;
 	text-transform: uppercase;
 }
+#foto {
+	height: 300px;
+	weight: 300px;
+	background-color: #236fe;
+	color: #000;
+}
+#main {
+	height: 300px;
+	weight: 300px;
+	background-color: #236fe;
+	color: #000;
+}
